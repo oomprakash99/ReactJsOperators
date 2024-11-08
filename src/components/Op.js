@@ -12,8 +12,8 @@ function Op(){
     }
 
     return<div>
-        <h1>Opertors</h1>
-        
+        <h1>Operators</h1>
+
         <h3>State:{data.num}</h3>
 
         <h4>{data.num<=105 && "this will appear UNTIL 105"}</h4>
